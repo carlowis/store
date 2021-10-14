@@ -1,0 +1,17 @@
+.spacer{
+  flex: 1 1 auto;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+.mouseHover:hover{
+  background-color: #4A148C;
+
+  cursor:pointer;
+  transition: all 1 step-start ;
+}
+
+.mouseHover{
+  padding: 0.5rem;
+}
